@@ -10,7 +10,7 @@ A simple basic Flask web app with Continuous Deployment using Render.
 ## Features 
 - Simple Homepage with Flask
 - CI/CD Pipeline (auto-deploy from Github) 
-- Hosted on Render.c9om 
+- Hosted on Render.com 
 
 ## Live Website 
 [Click here to view](https://flask-website-wut8.onrender.com)
